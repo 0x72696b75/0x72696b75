@@ -1,2 +1,2 @@
-All of the code I wrote was made for myself, and my standards aren't very high.
-It is far from being the best but I hope you can get something interesting from it.
+All of the code I upload here was made for myself. It is not meant to be good at what it does, only that it works.
+However I hope you can still get something interesting from it.
